@@ -18,7 +18,7 @@ This package extracts JSON objects from large JSON sources like files, endpoints
 Via Composer
 
 ``` bash
-composer require cerbero/json-objects
+composer require simtabi/json-objects
 ```
 
 ## Usage
